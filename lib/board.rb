@@ -1,4 +1,5 @@
 require_relative "knight"
+require 'byebug'
 
 class Board
   def initialize
